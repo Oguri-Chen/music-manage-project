@@ -22,7 +22,7 @@
 
 ```shell
  # 克隆项目
- https://github.com/Oguri-Chen/music-manage-project.git
+ git clone https://github.com/Oguri-Chen/music-manage-project.git
  # 进入 server 文件夹
  cd server
  
